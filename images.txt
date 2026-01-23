@@ -1,6 +1,5 @@
 redis:7.4.1
 redis:6.2
-redis:v7.0.5
 nginx:1.27.2
 mysql:8.4.3
 openjdk:17.0.2-jdk-slim
