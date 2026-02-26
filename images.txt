@@ -7,7 +7,6 @@ openjdk:17.0.2
 openjdk:8
 #nacos/nacos-server:v2.4.3
 #nacos/nacos-server:v2.1.0
-redis
 mysql:8.0
 #ghcr.io/sozercan/llama3.1:8b
 #ghcr.io/open-webui/open-webui:ollama
@@ -20,7 +19,6 @@ mysql:8.0
 #neo4j:5.26.0-community-bullseye
 #mongo:4.4
 #docker.n8n.io/n8nio/n8n:latest
-nacos/nacos-server:v3.0.1
-jenkins/jenkins:lts
+jenkins/jenkins
 
 
