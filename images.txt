@@ -1,5 +1,6 @@
 jenkins/jenkins:latest
 alibabadragonwell/dragonwell:8-anolis
 openeuler/tengine:3.1.0-oe2403sp1
+nginx:1.31.0-alpine-perl
 
 
